@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 王文远
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Wenyuan Wang 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Wenyuan 
+last_name: Wang
 
 # Status emoji
 status:
@@ -17,34 +17,36 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student in Human Computer Interaction
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: School of Information and Library Science, UNC Chapel Hill
+    url: https://sils.unc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include human factors on information behaviors, specifically, I'm looking for individual differences on stopping behaviors and the reason behind information satiety.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human Information Behaviors
+  - Human Machine Teaming
+  - User Experience Research
+  - Visual Analytics
+  - Natural Language Processing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Information Science
+      institution: UNC Chapel Hill
+      year: Present
+    - course: Master in Information Science
+      institution: University of Pittsburgh
+      year: 2015
+    - course: Bachelor in Computer Science
+      institution: Shanghai University of Finance and Economics
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,7 +55,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 95
         icon: python
         icon_pack: fab
       - name: Data Science
