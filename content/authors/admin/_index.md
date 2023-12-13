@@ -117,7 +117,7 @@ social:
     link: 'mailto:vaapad@live.unc.edu'
     display:
       header: true
-  - icon: Twitter_Dead
+  - icon: td
     label: No longer have and also banned from Twitter, and the hate now becomes mutual
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
