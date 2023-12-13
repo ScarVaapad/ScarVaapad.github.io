@@ -76,8 +76,8 @@ skills:
       - name: R
         description: ''
         percent: 75
-        icon: R
-        icon_pack: fas
+        icon: r-project
+        icon_pack: fab
   - name: Research
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -120,7 +120,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: 
-    label: No longer have and also banned from Twitter, guess the hate is mutual
+    label: No longer have and also banned from Twitter, and the hate now becomes mutual
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=r0mIDVEAAAAJ&hl=en
@@ -141,5 +141,6 @@ social:
 highlight_name: true
 ---
 
+Filling some idea here in case this is not commented out
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
