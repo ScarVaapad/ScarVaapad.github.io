@@ -75,7 +75,7 @@ skills:
         icon_pack: fab
       - name: R
         description: ''
-        percent: 75
+        percent: 55
         icon: r-project
         icon_pack: fab
   - name: Research
@@ -85,27 +85,27 @@ skills:
       - name: Interactive Visual Design
         description: ''
         percent: 85
-        icon: chart-scatter
-        icon_pack: far
+        icon: chart-area
+        icon_pack: fas
+      - name: Usability Testing
+        description: ''
+        percent: 75
+        icon: hammer
+        icon_pack: fas
       - name: Interview Protocol Design
         description: ''
-        percent: 80
+        percent: 75
         icon: clipboard-question
         icon_pack: fas
       - name: Survey Design
         description: ''
-        percent: 80
-        icon: square-poll-horizontal
-        icon_pack: fast
+        percent: 75
+        icon: list-check
+        icon_pack: fas
       - name: Statistical Analysis
         description: ''
-        percent: 75
-        icon: chart-candlestick
-        icon_pack: fas
-      - name: Survey Design
-        description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 70
+        icon: glasses
         icon_pack: fas
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -117,9 +117,7 @@ social:
     link: 'mailto:vaapad@live.unc.edu'
     display:
       header: true
-  - icon: twitter
-    icon_pack: fab
-    link: 
+  - icon: Twitter_Dead
     label: No longer have and also banned from Twitter, and the hate now becomes mutual
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
