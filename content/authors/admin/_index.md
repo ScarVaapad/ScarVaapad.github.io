@@ -118,6 +118,7 @@ social:
     display:
       header: true
   - icon: td
+    icon_pack: custom
     label: No longer have and also banned from Twitter, and the hate now becomes mutual
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
