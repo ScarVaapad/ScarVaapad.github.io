@@ -58,36 +58,55 @@ skills:
         percent: 95
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 95
         icon: database
         icon_pack: fas
-  - name: Hobbies
+      - name: Java Script
+        description: ''
+        percent: 85
+        icon: js
+        icon_pack: fab
+      - name: Java
+        description: ''
+        percent: 85
+        icon: java
+        icon_pack: fab
+      - name: R
+        description: ''
+        percent: 75
+        icon: R
+        icon_pack: fas
+  - name: Research
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Interactive Visual Design
         description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+        percent: 85
+        icon: chart-scatter
+        icon_pack: far
+      - name: Interview Protocol Design
         description: ''
-        percent: 100
-        icon: cat
+        percent: 80
+        icon: clipboard-question
         icon_pack: fas
-      - name: Photography
+      - name: Survey Design
+        description: ''
+        percent: 80
+        icon: square-poll-horizontal
+        icon_pack: fast
+      - name: Statistical Analysis
+        description: ''
+        percent: 75
+        icon: chart-candlestick
+        icon_pack: fas
+      - name: Survey Design
         description: ''
         percent: 80
         icon: camera-retro
         icon_pack: fas
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -95,19 +114,19 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: 'mailto:vaapad@live.unc.edu'
     display:
       header: true
+  - icon: twitter
+    icon_pack: fab
+    link: 
+    label: No longer have and also banned from Twitter, guess the hate is mutual
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=r0mIDVEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ScarVaapad
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
