@@ -90,7 +90,7 @@ sections:
           date_start: '2023-06-01'
           date_end: '2023-07-28'
           description: |2-
-            * Collaborated with Academic Scholars, Industrial Analysts and Government Agents during the 8-week ***Summer Conference of Applied Data Science (SCADS)***, to develop a ***Tailored Daily Report (TLDR)*** system to enhance intelligence analysts' workflows.
+            * Collaborated with Academic Scholars, Industrial Analysts and Government Agents during the 8-week [***Summer Conference of Applied Data Science (SCADS)***](https://ncsu-las.org/2023/08/tldr-like-the-presidents-daily-brief-but-for-everyone/), to develop a ***Tailored Daily Report (TLDR)*** system to enhance intelligence analysts' workflows.
             * Designed and executed a research project capturing core values of NSA intelligent analysts with focus discovery exercises, and analyzed data to derive key insights.
         - title: Research Assistant
           company: Digital Innovation Lab, UNC Chapel Hill
@@ -130,7 +130,7 @@ sections:
         #   description: |2-
         #     * 
     design:
-      columns: '2'
+      columns: '1'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -245,17 +245,18 @@ sections:
     #   columns: '1'
 
 
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
+
   - block: collection
     content:
       title: Recent Publications
@@ -270,21 +271,24 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
+
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
+
   - block: contact
     id: contact
     content:
@@ -295,7 +299,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: vaapad@live.une.edu
       phone: 412 721 5243
-      appointment_url: 'https://calendly.com'
+      # appointment_url: 'https://calendly.com'
       address:
         street: 019 Manning Hall, 206 Lenoir Dr
         city: Chapel Hill
@@ -313,12 +317,11 @@ sections:
         longitude: '-79.0490'  
       contact_links:
         - icon: td
-          icon_pack: 
           name: Mysteriously banned from Twitter, now the hate is mutual
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
+        # - icon: skype
+        #   icon_pack: fab
+        #   name: Skype Me
+        #   link: 'skype:echo123?call'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider

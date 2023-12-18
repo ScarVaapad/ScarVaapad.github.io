@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 王文远
+title: Wenyuan Wang
 
 # Name pronunciation (optional)
-name_pronunciation: Wenyuan Wang 
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Wenyuan 
@@ -140,6 +140,5 @@ social:
 highlight_name: true
 ---
 
-Filling some idea here in case this is not commented out
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, my name is Wenyuan Wang, Wen for short. I am a Phd student at School of Information and Library Science, UNC Chapel Hill. My research interests include visualization systems, explainable AI and human machine teaming. My current thesis is on the differentiation of the concept of "enough" from both perspectives of a human and one's machine counterpart, in another word, how systems decide saturation and how humans define satisfaction, and what models could bridge such gaps. 
 {style="text-align: justify;"}
