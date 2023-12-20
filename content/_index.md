@@ -316,9 +316,9 @@ sections:
       coordinates:
         latitude: '35.9112'  
         longitude: '-79.0490'  
-      contact_links:
-        - icon: td
-          name: Mysteriously banned from Twitter, now the hate is mutual
+      # contact_links:
+      #   - icon: 
+      #     name: Mysteriously banned from Twitter, now the hate is mutual
         # - icon: skype
         #   icon_pack: fab
         #   name: Skype Me

@@ -117,15 +117,15 @@ social:
     link: 'mailto:vaapad@live.unc.edu'
     display:
       header: true
-  - icon: td
-    icon_pack: custom
-    label: No longer have and also banned from Twitter, and the hate now becomes mutual
+  # - icon: Twitter
+  #   iconpack: fab
+  #   label: No longer have and also banned from Twitter, and the hate now becomes mutual
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=r0mIDVEAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/ScarVaapad
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/ScarVaapad
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
