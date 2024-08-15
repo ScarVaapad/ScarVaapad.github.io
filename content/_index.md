@@ -298,7 +298,7 @@ sections:
       text: |-
         Feel free to drop a few lines with me! I would absolutely like to join you for a virtual coffee!
       # Contact (add or remove contact options as necessary)
-      email: vaapad@live.une.edu
+      email: vaapad@live.unc.edu
       phone: 412 721 5243
       # appointment_url: 'https://calendly.com'
       address:
