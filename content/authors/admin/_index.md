@@ -65,7 +65,7 @@ skills:
         icon_pack: fas
       - name: Java Script
         description: ''
-        percent: 85
+        percent: 95
         icon: js
         icon_pack: fab
       - name: Java
@@ -75,37 +75,37 @@ skills:
         icon_pack: fab
       - name: R
         description: ''
-        percent: 55
+        percent: 65
         icon: r-project
         icon_pack: fab
   - name: Research
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Interactive Visual Design
-        description: ''
-        percent: 85
-        icon: chart-area
-        icon_pack: fas
       - name: Usability Testing
         description: ''
-        percent: 75
+        percent: 85
         icon: hammer
         icon_pack: fas
       - name: Interview Protocol Design
         description: ''
-        percent: 75
+        percent: 85
         icon: clipboard-question
         icon_pack: fas
       - name: Survey Design
         description: ''
-        percent: 75
+        percent: 85
         icon: list-check
         icon_pack: fas
       - name: Statistical Analysis
         description: ''
-        percent: 70
+        percent: 80
         icon: glasses
+        icon_pack: fas
+      - name: Interactive Visual Design
+        description: ''
+        percent: 65
+        icon: chart-area
         icon_pack: fas
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
